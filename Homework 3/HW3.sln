@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HW3", "HW3.pyproj", "{2B038392-4927-433A-856A-47EDA9D0A040}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F6C6E04-A98F-490A-96B1-76859CE94A04}"
+	ProjectSection(SolutionItems) = preProject
+		..\HW 3 data\OCR-data\ocr_test.txt = ..\HW 3 data\OCR-data\ocr_test.txt
+		..\HW 3 data\OCR-data\ocr_train.txt = ..\HW 3 data\OCR-data\ocr_train.txt
+		..\HW 3 data\stoplist.txt = ..\HW 3 data\stoplist.txt
+		..\HW 3 data\testdata.txt = ..\HW 3 data\testdata.txt
+		..\HW 3 data\testlabels.txt = ..\HW 3 data\testlabels.txt
+		..\HW 3 data\traindata.txt = ..\HW 3 data\traindata.txt
+		..\HW 3 data\trainlabels.txt = ..\HW 3 data\trainlabels.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B038392-4927-433A-856A-47EDA9D0A040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B038392-4927-433A-856A-47EDA9D0A040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6320A1-3993-4ED5-A6F9-A8E58E5AFBB3}
+	EndGlobalSection
+EndGlobal
